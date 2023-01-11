@@ -1,0 +1,29 @@
+/* 
+selector {
+    decleration ( value & property )
+} 
+*/
+
+img {
+    height: 500px;
+    width: 400px;
+    border: 5px solid pink;
+}
+
+h1 {
+    color: pink;
+}
+
+#experience{ /* id */
+    color: hotpink;
+}
+
+.magenta-text{ /* class */
+    color: magenta;
+    font-size: 20px;
+}
+
+#exp-background{
+    background-color: skyblue;
+}
+
